@@ -1,7 +1,19 @@
 ## Hi there 👋
 
-Getting my MSCS (Master of Culninary Skills) @Colorado School of Mines.
+Current MSCS (Master of Culninary Skills) student @Colorado School of Mines.
 
+```
+ __       ___,.-------..__        __
+//\\ _,-''                `'--._ //\\
+\\ ;'                           `: //
+ `(                               )'
+   :.                           ,;
+    `.`--.___           ___.--','
+      `.     ``-------''     ,'
+         -.               ,-
+            `-._______.-'
+
+```
 <!--
 **JCEleanor/JCEleanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

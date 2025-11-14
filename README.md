@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Getting my MSCS (Master of Culninary Skills) @Colorado School of Mines.
+
 <!--
 **JCEleanor/JCEleanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
